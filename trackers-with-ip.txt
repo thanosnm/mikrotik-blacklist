@@ -650,6 +650,7 @@
 0.0.0.0 tracker.dnlab.net
 0.0.0.0 tracker.draatman.uk
 0.0.0.0 tracker.ds.is
+0.0.0.0 tracker.ducks.party
 0.0.0.0 tracker.dump.cl
 0.0.0.0 tracker.dutchtracking.nl
 0.0.0.0 tracker.dyne.org
@@ -833,6 +834,7 @@
 0.0.0.0 tracker.torrenty.org
 0.0.0.0 tracker.torrentyorg.pl
 0.0.0.0 tracker.torrust-demo.com
+0.0.0.0 tracker.trackarr.org
 0.0.0.0 tracker.trackerfix.com
 0.0.0.0 tracker.trackton.ga
 0.0.0.0 tracker.tricitytorrents.com
