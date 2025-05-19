@@ -25,6 +25,7 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=24.170.208.0/20
 /ip firewall address-list add list=ET_SPAMHAUS address=24.233.0.0/19
 /ip firewall address-list add list=ET_SPAMHAUS address=24.236.0.0/19
+/ip firewall address-list add list=ET_SPAMHAUS address=27.48.152.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=27.50.63.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=27.99.128.0/17
 /ip firewall address-list add list=ET_SPAMHAUS address=27.112.32.0/19
@@ -70,6 +71,9 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=45.9.168.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=45.64.74.0/23
 /ip firewall address-list add list=ET_SPAMHAUS address=45.65.32.0/22
+/ip firewall address-list add list=ET_SPAMHAUS address=45.74.31.0/24
+/ip firewall address-list add list=ET_SPAMHAUS address=45.74.40.0/24
+/ip firewall address-list add list=ET_SPAMHAUS address=45.74.56.0/23
 /ip firewall address-list add list=ET_SPAMHAUS address=45.80.248.0/23
 /ip firewall address-list add list=ET_SPAMHAUS address=45.86.18.0/23
 /ip firewall address-list add list=ET_SPAMHAUS address=45.86.48.0/22
@@ -85,6 +89,8 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=45.133.246.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=45.134.26.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=45.135.48.0/22
+/ip firewall address-list add list=ET_SPAMHAUS address=45.135.193.0/24
+/ip firewall address-list add list=ET_SPAMHAUS address=45.135.194.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=45.135.232.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=45.139.104.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=45.140.17.0/24
@@ -104,10 +110,14 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=45.148.120.0/23
 /ip firewall address-list add list=ET_SPAMHAUS address=45.148.123.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=45.148.148.0/22
+/ip firewall address-list add list=ET_SPAMHAUS address=45.156.117.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=45.176.184.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=45.186.152.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=45.192.178.0/23
 /ip firewall address-list add list=ET_SPAMHAUS address=45.197.14.0/24
+/ip firewall address-list add list=ET_SPAMHAUS address=45.221.64.0/23
+/ip firewall address-list add list=ET_SPAMHAUS address=45.221.67.0/24
+/ip firewall address-list add list=ET_SPAMHAUS address=45.221.68.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=45.248.88.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=46.173.214.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=46.173.218.0/23
@@ -326,6 +336,9 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=101.134.0.0/15
 /ip firewall address-list add list=ET_SPAMHAUS address=101.203.128.0/19
 /ip firewall address-list add list=ET_SPAMHAUS address=101.248.0.0/15
+/ip firewall address-list add list=ET_SPAMHAUS address=102.135.30.0/24
+/ip firewall address-list add list=ET_SPAMHAUS address=102.135.96.0/24
+/ip firewall address-list add list=ET_SPAMHAUS address=102.135.98.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=102.211.56.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=102.240.0.0/16
 /ip firewall address-list add list=ET_SPAMHAUS address=103.1.43.0/24
@@ -386,6 +399,7 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=103.171.236.0/23
 /ip firewall address-list add list=ET_SPAMHAUS address=103.174.130.0/23
 /ip firewall address-list add list=ET_SPAMHAUS address=103.175.229.0/24
+/ip firewall address-list add list=ET_SPAMHAUS address=103.177.230.0/23
 /ip firewall address-list add list=ET_SPAMHAUS address=103.179.148.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=103.186.116.0/23
 /ip firewall address-list add list=ET_SPAMHAUS address=103.192.228.0/22
@@ -412,6 +426,7 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=103.253.216.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=103.254.108.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=103.255.56.0/22
+/ip firewall address-list add list=ET_SPAMHAUS address=104.37.1.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=104.37.4.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=104.193.228.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=104.244.56.0/21
@@ -480,6 +495,7 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=124.242.0.0/16
 /ip firewall address-list add list=ET_SPAMHAUS address=125.31.192.0/18
 /ip firewall address-list add list=ET_SPAMHAUS address=125.58.0.0/18
+/ip firewall address-list add list=ET_SPAMHAUS address=129.56.0.0/16
 /ip firewall address-list add list=ET_SPAMHAUS address=130.148.0.0/16
 /ip firewall address-list add list=ET_SPAMHAUS address=130.196.0.0/16
 /ip firewall address-list add list=ET_SPAMHAUS address=130.222.0.0/16
@@ -697,6 +713,8 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=171.22.28.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=171.22.30.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=171.26.0.0/16
+/ip firewall address-list add list=ET_SPAMHAUS address=172.94.95.0/24
+/ip firewall address-list add list=ET_SPAMHAUS address=172.94.99.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=172.247.38.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=173.44.141.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=175.103.64.0/18
@@ -705,7 +723,7 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=176.65.138.0/23
 /ip firewall address-list add list=ET_SPAMHAUS address=176.65.140.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=176.65.144.0/24
-/ip firewall address-list add list=ET_SPAMHAUS address=176.65.149.0/24
+/ip firewall address-list add list=ET_SPAMHAUS address=176.65.148.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=176.113.115.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=176.119.147.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=176.126.192.0/23
@@ -742,6 +760,8 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=185.80.112.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=185.81.68.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=185.81.156.0/22
+/ip firewall address-list add list=ET_SPAMHAUS address=185.84.157.0/24
+/ip firewall address-list add list=ET_SPAMHAUS address=185.84.158.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=185.93.89.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=185.104.191.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=185.110.0.0/22
@@ -775,7 +795,6 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=185.215.113.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=185.215.132.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=185.221.128.0/22
-/ip firewall address-list add list=ET_SPAMHAUS address=185.230.44.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=185.232.8.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=185.232.45.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=185.234.148.0/22
@@ -893,7 +912,6 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=193.151.160.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=193.163.101.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=193.176.23.0/24
-/ip firewall address-list add list=ET_SPAMHAUS address=193.222.96.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=193.233.81.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=193.233.200.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=193.233.255.0/24
@@ -910,7 +928,6 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=194.113.28.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=194.145.227.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=194.146.220.0/22
-/ip firewall address-list add list=ET_SPAMHAUS address=194.169.172.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=195.14.98.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=195.22.149.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=195.49.128.0/22
@@ -920,7 +937,6 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=195.178.110.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=195.181.224.0/20
 /ip firewall address-list add list=ET_SPAMHAUS address=195.210.96.0/19
-/ip firewall address-list add list=ET_SPAMHAUS address=195.211.191.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=195.216.248.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=196.1.109.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=196.10.61.0/24
@@ -938,6 +954,7 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=196.251.88.0/21
 /ip firewall address-list add list=ET_SPAMHAUS address=196.251.96.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=196.251.98.0/23
+/ip firewall address-list add list=ET_SPAMHAUS address=196.251.104.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=196.251.112.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=196.251.116.0/23
 /ip firewall address-list add list=ET_SPAMHAUS address=196.251.118.0/24
@@ -975,6 +992,8 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=198.183.32.0/19
 /ip firewall address-list add list=ET_SPAMHAUS address=198.184.193.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=198.186.25.0/24
+/ip firewall address-list add list=ET_SPAMHAUS address=198.187.16.0/21
+/ip firewall address-list add list=ET_SPAMHAUS address=198.187.24.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=198.187.64.0/18
 /ip firewall address-list add list=ET_SPAMHAUS address=198.187.192.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=198.187.207.0/24
@@ -1270,6 +1289,7 @@
 /ip firewall address-list add list=ET_SPAMHAUS address=206.51.29.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=206.121.28.0/22
 /ip firewall address-list add list=ET_SPAMHAUS address=206.121.32.0/23
+/ip firewall address-list add list=ET_SPAMHAUS address=206.123.147.0/24
 /ip firewall address-list add list=ET_SPAMHAUS address=206.124.104.0/21
 /ip firewall address-list add list=ET_SPAMHAUS address=206.125.16.0/20
 /ip firewall address-list add list=ET_SPAMHAUS address=206.130.188.0/24
