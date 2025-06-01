@@ -227,6 +227,7 @@
 0.0.0.0 thetradersden.org
 0.0.0.0 thevault.bz
 0.0.0.0 thouvenin.cloud
+0.0.0.0 threads.canofsocks.com
 0.0.0.0 tk.greedland.net
 0.0.0.0 tk.mabo.ltd
 0.0.0.0 torrent-team.net
@@ -273,6 +274,7 @@
 0.0.0.0 tracker.baltracker.net
 0.0.0.0 tracker.beeimg.com
 0.0.0.0 tracker.birkenwald.de
+0.0.0.0 tracker.bitcoinindia.space
 0.0.0.0 tracker.bittor.pw
 0.0.0.0 tracker.bittorrent.am
 0.0.0.0 tracker.bjut.jp
@@ -322,6 +324,8 @@
 0.0.0.0 tracker.grepler.com
 0.0.0.0 tracker.halfchub.club
 0.0.0.0 tracker.hama3.net
+0.0.0.0 tracker.hifimarket.in
+0.0.0.0 tracker.hifitechindia.com
 0.0.0.0 tracker.iamhansen.xyz
 0.0.0.0 tracker.idocdn.com
 0.0.0.0 tracker.imgoingto.icu
@@ -366,6 +370,8 @@
 0.0.0.0 tracker.parrotsec.org
 0.0.0.0 tracker.pirateparty.gr
 0.0.0.0 tracker.piratepublic.com
+0.0.0.0 tracker.plx.im
+0.0.0.0 tracker.pmman.tech
 0.0.0.0 tracker.pomf.se
 0.0.0.0 tracker.privateseedbox.xyz
 0.0.0.0 tracker.publicbt.com
@@ -454,6 +460,7 @@
 0.0.0.0 wassermann.online
 0.0.0.0 wepzone.net
 0.0.0.0 worldboxingvideoarchive.com
+0.0.0.0 www.2600.com
 0.0.0.0 www.all4nothin.net
 0.0.0.0 www.genesis-sp.org
 0.0.0.0 www.loushao.net
