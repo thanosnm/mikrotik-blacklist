@@ -1,3 +1,4 @@
+<!-- keywords: mikrotik, blacklist, routeros, address-list, firewall, threat feeds, spamhaus, abuse.ch, ip blocklist, python mikrotik script -->
 # 🇬🇷 Ελληνικές και Διεθνείς Λίστες Αποκλεισμού για MikroTik και Pi-hole
 ## 🇬🇧 Greek and International Blocklists for MikroTik and Pi-hole
 
